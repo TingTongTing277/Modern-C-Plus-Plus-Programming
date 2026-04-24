@@ -1,0 +1,6 @@
+[submodule "Modern-CMake"]
+	path = Modern-CMake
+	url = ./Modern-CMake
+[submodule "Modern-Cpp-Template"]
+	path = Modern-Cpp-Template
+	url = ./Modern-Cpp-Template/
